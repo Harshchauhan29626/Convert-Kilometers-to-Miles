@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.svg{
+    overflow: hidden;
+}
+
+.b{
+    display: flex;
+}
+
+#p1{
+    margin-top: 1rem;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
